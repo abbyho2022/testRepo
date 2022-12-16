@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1237.0",
+    "axios": "^1.2.0",
+    "crypto": "^1.0.1",
+    "form-data": "^4.0.0",
+    "node-newebpay": "^2.0.0",
+    "nodemon": "^2.0.20",
+    "sleep": "^6.3.0",
+    "xml2js": "^0.4.23"
+  }
+}
